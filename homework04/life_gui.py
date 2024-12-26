@@ -1,8 +1,7 @@
 import pygame
+from life import GameOfLife
 from pygame.constants import K_SPACE, KEYDOWN, MOUSEBUTTONDOWN, QUIT, K_q
 from pygame.locals import *
-
-from life import GameOfLife
 from ui import UI
 
 
